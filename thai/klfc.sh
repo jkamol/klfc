@@ -1,2 +1,3 @@
-klfc kcmdh.json -o output
-klfc canaryth.json -o output
+klfc thcmdh.json -o output
+klfc thcanary.json -o output
+klfc thcrane.json -o output
