@@ -1,6 +1,6 @@
-// W L D P B  ' F O U J
+// Q L D P B  ' F O U J
 // C R S T G  M N A I Y
-// Z X V K Q  ; H / , .
+// Z X V W K  ; H / , .
 //            E
 {
   "fullName": "Thai CRENA",
@@ -8,7 +8,7 @@
   "copyright": "Public Domain",
   "company": "None",
   "localeId": "0000041e",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Thai with CRENA layout",
   "shiftlevels": ["None", "Shift", "AltGr", "Shift+AltGr"],
   "filter": "only klc keylayout",
@@ -26,7 +26,7 @@
     { "pos": "0",  "letters": [ "0", ")", "๐", ""] },
     { "pos": "-",  "letters": [ "-", "_", "÷", ""] },
     { "pos": "=",  "letters": [ "=", "+", "×", ""] },
-    { "pos": "W",  "letters": [ "ื", "ฯ", "", ""] },
+    { "pos": "Q",  "letters": [ "ื", "ฯ", "", ""] },
     { "pos": "L",  "letters": [ "ต", "ฆ", "", ""] },
     { "pos": "D",  "letters": [ "ห", "ซ", "", ""] },
     { "pos": "P",  "letters": [ "ล", "ญ", "", ""] },
@@ -49,8 +49,8 @@
     { "pos": "Z",  "letters": [ "ุ", "ฤ", "", ""] },
     { "pos": "X",  "letters": [ "ไ", "ฝ", "ฦ", ""] },
     { "pos": "V",  "letters": [ "ท", "ๆ", "", ""] },
-    { "pos": "K",  "letters": [ "ย", "ณ", "", ""] },
-    { "pos": "Q",  "letters": [ "จ", "๊", "", ""] },
+    { "pos": "W",  "letters": [ "ย", "ณ", "", ""] },
+    { "pos": "K",  "letters": [ "จ", "๊", "", ""] },
     { "pos": ";",  "letters": [ "ค", "๋", "ฅ", ""] },
     { "pos": "H",  "letters": [ "ี", "์", "๎", ""] },
     { "pos": "/",  "letters": [ "ด", "ศ", "/", "?"] },
